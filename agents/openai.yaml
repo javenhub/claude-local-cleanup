@@ -1,0 +1,4 @@
+interface:
+  display_name: "Claude 本机清理与卸载"
+  short_description: "在 macOS 与 Windows 上检查、备份、重置和卸载 Claude 本机数据"
+  default_prompt: "使用 $claude-local-cleanup 检查这台电脑的 Claude 安装与残留，按我指定的范围完成清理并验证。"
